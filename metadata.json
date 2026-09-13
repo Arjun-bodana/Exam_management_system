@@ -1,0 +1,11 @@
+{
+  "name": "ParikshVision - Exam Monitoring System",
+  "description": "Enterprise-Grade Exam Monitoring System (EMS) with secure test sessions, tab-switching detector, screen recording, live proctoring, and PostgreSQL database architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
